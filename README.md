@@ -13,7 +13,7 @@
 
 ### Clone ou baixe o repositório:
 
-git clone [URL do Repositório]
+git clone https://github.com/jcpds14/ProjetoEmprestimoAda.git
 
 ### Instale as dependências do projeto:
 
